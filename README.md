@@ -7,6 +7,8 @@ Date: October 18th, 2015
 
 Introduction: The purpose of this app is to examine the distribution of mortgages that make up the FHLB portfolio in order to analyze the FHLB System's effectiveness.
 
+To Run in RStudio: shiny::runGitHub('FHLBPortfolio', 'joeinnyc')
+
 Source Data:
 	-Loan Level Data from the FHLB System: http://www.fhfa.gov/DataTools/Downloads/Pages/FHLBank-Public-Use-Database-Previous-Years.aspx
 
